@@ -53,7 +53,7 @@ const TESTIMONIALS = [
   },
 ]
 
-const WA_MSG = encodeURIComponent("Hi Miss Yellospace Team!\n\nI'm interested in your digital marketing services and would like to learn more about how you can help my business grow.\n\nCould you please provide more information about your offerings?")
+const WA_MSG = encodeURIComponent("Hi Miss Yellowspace Team!\n\nI'm interested in your digital marketing services and would like to learn more about how you can help my business grow.\n\nCould you please provide more information about your offerings?")
 
 /* ── HERO SECTION ── */
 function HeroSection() {
@@ -388,7 +388,7 @@ function ContactCTA() {
             Let's Build Something<br /><span className="gradient-text">Extraordinary Together</span>
           </motion.h2>
           <motion.p variants={fadeUp} className="section-subtitle" style={{ margin: '0 auto 44px' }}>
-            Join 500+ businesses that trust Miss Yellospace to drive their digital growth. Your success story starts with a free consultation.
+            Join 500+ businesses that trust Miss Yellowspace to drive their digital growth. Your success story starts with a free consultation.
           </motion.p>
           <motion.div variants={fadeUp} style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap' }}>
             <motion.a
