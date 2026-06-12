@@ -36,7 +36,7 @@ export default function Careers() {
         ))}
         <div className="container" style={{ position: 'relative', zIndex: 2, textAlign: 'center' }}>
           <motion.div variants={stagger} initial="hidden" animate="visible">
-            <motion.span variants={fadeUp} className="section-tag">Careers at Miss Yellospace</motion.span>
+            <motion.span variants={fadeUp} className="section-tag">Careers at Miss Yellowspace</motion.span>
             <motion.h1 variants={fadeUp} style={{
               fontFamily: 'var(--font-heading)', fontWeight: 900,
               fontSize: 'clamp(36px, 6vw, 68px)', lineHeight: 1.08, letterSpacing: '-2px',
