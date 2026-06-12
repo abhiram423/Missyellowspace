@@ -294,7 +294,7 @@ function ProcessSection() {
 }
 
 function ServicesCTA() {
-  const WA_MESSAGE = encodeURIComponent("Hi Miss Yellospace Team!\n\nI'm interested in your digital marketing services and would like to learn more about how you can help my business grow.\n\nCould you please provide more information about your offerings?")
+  const WA_MESSAGE = encodeURIComponent("Hi Miss Yellowspace Team!\n\nI'm interested in your digital marketing services and would like to learn more about how you can help my business grow.\n\nCould you please provide more information about your offerings?")
   return (
     <section className="section-sm" style={{ background: 'var(--bg-secondary)', borderTop: '1px solid var(--border-subtle)' }}>
       <div className="container" style={{ textAlign: 'center' }}>

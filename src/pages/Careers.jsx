@@ -96,7 +96,7 @@ export default function Careers() {
 
             <div style={{ display: 'flex', gap: 14, justifyContent: 'center', flexWrap: 'wrap' }}>
               <motion.a
-                href="mailto:info@yellospace.com?subject=Open Application – Miss Yellospace&body=Hi Miss Yellospace Team,%0D%0A%0D%0AI'd love to join your team! Here's a bit about me:%0D%0A%0D%0AName:%0D%0ARole I'd be great at:%0D%0AExperience:%0D%0APortfolio/LinkedIn:%0D%0A%0D%0ALooking forward to hearing from you!"
+                href="mailto:Missyellowspace@gmail.com?subject=Open Application – Miss Yellowspace&body=Hi Miss Yellowspace Team,%0D%0A%0D%0AI'd love to join your team! Here's a bit about me:%0D%0A%0D%0AName:%0D%0ARole I'd be great at:%0D%0AExperience:%0D%0APortfolio/LinkedIn:%0D%0A%0D%0ALooking forward to hearing from you!"
                 className="btn-primary"
                 whileHover={{ scale: 1.04 }} whileTap={{ scale: 0.97 }}
                 style={{ fontSize: 15, padding: '15px 32px' }}

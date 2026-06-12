@@ -18,7 +18,7 @@ const stagger = {
 }
 
 const WA_MESSAGE = encodeURIComponent(
-  "Hi Miss Yellospace Team!\n\nI'm interested in your digital marketing services and would like to learn more about how you can help my business grow.\n\nCould you please provide more information about your offerings?"
+  "Hi Miss Yellowspace Team!\n\nI'm interested in your digital marketing services and would like to learn more about how you can help my business grow.\n\nCould you please provide more information about your offerings?"
 )
 
 const SOCIAL = [

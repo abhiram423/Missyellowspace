@@ -4,7 +4,7 @@ import { FaWhatsapp } from 'react-icons/fa'
 
 const WA_NUMBER = '917993927711'
 const WA_MESSAGE = encodeURIComponent(
-  "Hi Miss Yellospace Team!\n\nI'm interested in your digital marketing services and would like to learn more about how you can help my business grow.\n\nCould you please provide more information about your offerings?"
+  "Hi Miss Yellowspace Team!\n\nI'm interested in your digital marketing services and would like to learn more about how you can help my business grow.\n\nCould you please provide more information about your offerings?"
 )
 
 export default function WhatsAppButton() {
@@ -38,7 +38,7 @@ export default function WhatsAppButton() {
               border: '1px solid rgba(255,255,255,0.08)',
             }}
           >
-            Chat with Miss Yellospace on WhatsApp!
+            Chat with Miss Yellowspace on WhatsApp!
             <div style={{
               position: 'absolute', bottom: -6, right: 20,
               width: 12, height: 12, background: '#0d0f28',
