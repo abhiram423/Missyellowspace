@@ -335,7 +335,7 @@ function MapSection() {
                 <FaMapMarkerAlt />
               </div>
               <h3 style={{ fontFamily: 'var(--font-heading)', fontSize: 20, fontWeight: 800, color: 'var(--text-primary)', marginBottom: 16 }}>
-                Miss Yellospace HQ
+                Miss Yellowspace HQ
               </h3>
               <address style={{ fontStyle: 'normal', fontSize: 15, color: 'var(--text-secondary)', lineHeight: 2, marginBottom: 24 }}>
                 Unit 407, 4th Floor<br />

@@ -41,7 +41,7 @@ const WHY_US = [
 const TESTIMONIALS = [
   {
     name: 'Rajesh Kumar', role: 'Founder, TechNova', rating: 5,
-    text: "Miss Yellospace transformed our online presence completely. Within 3 months, organic traffic tripled and lead quality improved dramatically.",
+    text: "Miss Yellowspace transformed our online presence completely. Within 3 months, organic traffic tripled and lead quality improved dramatically.",
   },
   {
     name: 'Priya Sharma', role: 'CEO, StyleBoutique', rating: 5,
@@ -49,7 +49,7 @@ const TESTIMONIALS = [
   },
   {
     name: 'Amit Patel', role: 'Director, HealthCorp', rating: 5,
-    text: "The ROI from their performance marketing is unmatched. 6x return on every rupee spent. Miss Yellospace is our go-to digital partner.",
+    text: "The ROI from their performance marketing is unmatched. 6x return on every rupee spent. Miss Yellowspace is our go-to digital partner.",
   },
 ]
 
@@ -95,7 +95,7 @@ function HeroSection() {
             }}
           >
             Welcome to{' '}
-            <span style={{ color: '#FFD700', fontWeight: 700 }}>Miss Yellospace</span>
+            <span style={{ color: '#FFD700', fontWeight: 700 }}>Miss Yellowspace</span>
             <span style={{ color: 'rgba(237,240,248,0.85)' }}>{'...!'}</span>
           </motion.p>
 
