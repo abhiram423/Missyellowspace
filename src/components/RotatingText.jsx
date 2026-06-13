@@ -5,7 +5,6 @@ export const ROTATING_PHRASES = [
   'Graphic Designing',
   'Digital Marketing',
   'Social Media Marketing',
-  'Web Development',
   'Branding & Animations',
   'Performance Marketing',
   'SEO & Growth',

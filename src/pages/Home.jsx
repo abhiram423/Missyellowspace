@@ -95,8 +95,8 @@ function HeroSection() {
             }}
           >
             Welcome to{' '}
-            <span style={{ color: '#FFD700', fontWeight: 700 }}>Miss Yellowspace</span>
-            <span style={{ color: 'rgba(237,240,248,0.85)' }}>{'...!'}</span>
+            <span style={{ color: 'rgba(237,240,248,0.85)', fontWeight: 700 }}>Miss </span>
+            <span style={{ color: '#FFD700' }}>Yellowspace{'...!'}</span>
           </motion.p>
 
           {/* Main headline */}

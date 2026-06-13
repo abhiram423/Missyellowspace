@@ -129,7 +129,7 @@ export default function Navbar() {
           </motion.div>
           <div style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.1 }}>
             <span style={{ fontFamily: 'var(--font-heading)', fontWeight: 900, fontSize: 18, letterSpacing: '-0.3px', whiteSpace: 'nowrap' }}>
-              <span style={{ color: '#edf0f8' }}>Miss</span>
+              <span style={{ color: '#edf0f8', marginRight: '8px' }}>Miss</span>
               <span style={{ color: '#FFD700' }}>Yellowspace</span>
             </span>
           </div>

@@ -62,7 +62,7 @@ function PageHero() {
       <div className="container" style={{ position: 'relative', zIndex: 2, width: '100%', textAlign: 'center' }}>
         <ContentHalo>
           <motion.div variants={stagger} initial="hidden" animate="visible">
-          <motion.span variants={fadeUp} className="section-tag">About Miss Yellospace</motion.span>
+          <motion.span variants={fadeUp} className="section-tag">About Us</motion.span>
           <motion.h1 variants={fadeUp} style={{
             fontFamily: 'var(--font-heading)',
             fontSize: 'clamp(34px, 5.5vw, 66px)',

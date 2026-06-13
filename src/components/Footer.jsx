@@ -27,7 +27,7 @@ const NAV_LINKS = [
 
 const SERVICE_LINKS = [
   'Performance Marketing', 'Social Media Marketing', 'SEO',
-  'Graphic Designing', 'Web Development', 'Branding & Animations',
+  'Graphic Designing', 'Digital Marketing', 'Branding & Animations',
 ]
 
 /* Inline SVG logo — same as Navbar */
@@ -57,7 +57,7 @@ export default function Footer() {
             <Link to="/" style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 18 }}>
               <YellowspaceLogo size={46} />
               <div style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.15 }}>
-                <span style={{ fontFamily: 'var(--font-heading)', fontWeight: 900, fontSize: 18, color: '#edf0f8' }}>
+                <span style={{ fontFamily: 'var(--font-heading)', fontWeight: 900, fontSize: 18, color: '#edf0f8', display: 'flex', gap: '8px'}}>
                   Miss<span style={{ color: '#FFD700' }}>Yellowspace</span>
                 </span>
               </div>
